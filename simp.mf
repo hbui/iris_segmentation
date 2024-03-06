@@ -1,0 +1,16 @@
+task1: 
+	python /Users/hbui/work/irs/iris_segmentation/iris_segmentation/main.py --r 100 --p ~/Downloads/CASIA-IrisV4/CASIA-Iris-Lamp/001/L --e jpg > task1
+task2: 
+        python /Users/hbui/work/irs/iris_segmentation/iris_segmentation/main.py --r 100 --p ~/Downloads/CASIA-IrisV4/CASIA-Iris-Lamp/001/R --e jpg > task2
+task3:  
+        python /Users/hbui/work/irs/iris_segmentation/iris_segmentation/main.py --r 100 --p ~/Downloads/CASIA-IrisV4/CASIA-Iris-Lamp/001/L --e jpg > task3
+task4:  
+        python /Users/hbui/work/irs/iris_segmentation/iris_segmentation/main.py --r 100 --p ~/Downloads/CASIA-IrisV4/CASIA-Iris-Lamp/001/R --e jpg > task4
+task5:  
+        python /Users/hbui/work/irs/iris_segmentation/iris_segmentation/main.py --r 100 --p ~/Downloads/CASIA-IrisV4/CASIA-Iris-Lamp/001/L --e jpg > task5
+task6:  
+        python /Users/hbui/work/irs/iris_segmentation/iris_segmentation/main.py --r 100 --p ~/Downloads/CASIA-IrisV4/CASIA-Iris-Lamp/001/R --e jpg > task6
+task7:  
+        python /Users/hbui/work/irs/iris_segmentation/iris_segmentation/main.py --r 100 --p ~/Downloads/CASIA-IrisV4/CASIA-Iris-Lamp/001/L --e jpg > task7
+task8:  
+        python /Users/hbui/work/irs/iris_segmentation/iris_segmentation/main.py --r 100 --p ~/Downloads/CASIA-IrisV4/CASIA-Iris-Lamp/001/R --e jpg > task8
