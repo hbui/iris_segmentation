@@ -10,6 +10,7 @@ Argument
 - r: Radius of iris ex) --r 60
 - e: extension of image format ex) --e bmp
 - p: path of root image folder 
+i.e: python main.py --r 100 --p ~/Downloads/CASIA-IrisV4\(JPG\)/CASIA-Iris-Lamp/001/L --e jpg
 
 ---
 Requirement library
